@@ -5,5 +5,12 @@ public class Ogrenci {
 
         System.out.println("merhaba");
 
+        System.out.println("merhaba 2 hocadan");
+
+        System.out.println("merhaba 3 hocadan hocadan aldym" );
+
+        System.out.println("merhaba 4 hocadan hocadan aldym" );
+
+
     }
 }
